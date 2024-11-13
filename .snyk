@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "ignore": {
-    "npm:lodash:20180130": {
+    "npm:adm:20180415": {
       "expiry": "2024-12-31",
       "reason": "This vulnerability is not applicable for our project."
     }
